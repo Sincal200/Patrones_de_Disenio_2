@@ -20,7 +20,15 @@ public class Demo {
                         new Dot(240, 360, Color.GREEN),
                         new Dot(360, 360, Color.GREEN),
                         new Dot(360, 240, Color.GREEN)
-                )
+                )/*,
+
+                new CompoundShape(
+                        new DemoShape(400, 400, 600, 100, Color.ORANGE),
+                        new Dot(390, 390, Color.ORANGE),
+                        new Dot(390, 490, Color.ORANGE)
+
+                )*/
+
         );
     }
 }
