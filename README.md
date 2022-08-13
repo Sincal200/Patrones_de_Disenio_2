@@ -10,6 +10,9 @@ Héctor Alfredo Gálvez Martínez
 
 Carlos Alfonso Sagastume Martinez
 
+Christopher Aly Cordero Alarcón
+
+Bayron Ezequiel Arias Esteban
 
 
 ------------------------------------------------------------------------------------------------------------------------------
