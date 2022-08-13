@@ -3,8 +3,11 @@
 Integrantes:
 
 Julio Daniel Sincal Aroche
+
 María Fernanda Rodríguez Colindres
+
 Héctor Alfredo Gálvez Martínez
+
 Carlos Alfonso Sagastume Martinez
 
 
