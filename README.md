@@ -1,5 +1,16 @@
 # Patrones_de_Disenio_2
 
+Integrantes:
+
+Julio Daniel Sincal Aroche
+María Fernanda Rodríguez Colindres
+Héctor Alfredo Gálvez Martínez
+Carlos Alfonso Sagastume Martinez
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 Adapter es uno de los patrones de diseño más simples. Un adaptador es una clase que provee un enlace entre dos clases o interfaces incompatibles entre sí para que puedan trabajar en conjunto. Se utiliza para transformar una interfaz en otra, de tal modo que una clase que no pueda utilizar la primera haga uso de ella a través de la segunda.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
