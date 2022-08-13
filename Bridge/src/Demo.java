@@ -16,12 +16,12 @@ public class Demo {
         advancedRemote.mute();
         device.printStatus();
 
-        /*
+/*
         System.out.println("Tests with demo remote.");
         RemoteDemo remoteDemo = new RemoteDemo(device);
         remoteDemo.power();
         remoteDemo.volumen_up();
         device.printStatus();
-        */
+    */
     }
 }
