@@ -16,13 +16,14 @@ Decorator: El patrón Decorator responde a la necesidad de añadir dinámicament
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Facade es un patrón de diseño oculta las complejidades del sistema y proporciona una interfaz para el cliente mediante la cual el cliente puede acceder al sistema.
+Este tipo de patrón de diseño se incluye en el patrón estructural, ya que este patrón agrega una interfaz al sistema existente para ocultar sus complejidades.
 
-
+Este patrón involucra una sola clase que proporciona métodos simplificados requeridos por el cliente y delega llamadas a métodos de clases de sistemas existentes.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
+Flyweight: Es un patrón que puede repetir un objeto, siempre y cuanto tenga instancias en común, esto sirve para optimizar la memoria RAM sacando el máximo provecho, dejando este valioso recurso para utilizar en otros aspectos. Se debe de utilizar solamente si la escasez de memoria RAM se presenta.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
