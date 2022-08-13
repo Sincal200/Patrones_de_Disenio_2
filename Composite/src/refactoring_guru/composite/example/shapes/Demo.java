@@ -25,8 +25,9 @@ public class Demo {
                 new CompoundShape(
                         new DemoShape(400, 400, 600, 100, Color.ORANGE),
                         new Dot(390, 390, Color.ORANGE),
-                        new Dot(390, 490, Color.ORANGE)
-
+                        new Dot(390, 490, Color.ORANGE),
+                        new Circle(600, 600, 50, Color.RED),
+                        new Rectangle(700, 700, 100, 100, Color.GREEN)
                 )*/
 
         );
