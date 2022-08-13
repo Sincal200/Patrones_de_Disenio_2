@@ -23,8 +23,7 @@ Este patrón involucra una sola clase que proporciona métodos simplificados req
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
+Flyweight: Es un patrón que puede repetir un objeto, siempre y cuanto tenga instancias en común, esto sirve para optimizar la memoria RAM sacando el máximo provecho, dejando este valioso recurso para utilizar en otros aspectos. Se debe de utilizar solamente si la escasez de memoria RAM se presenta.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
